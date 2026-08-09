@@ -4,6 +4,10 @@ A full-stack real-time chat application built with React, Node.js, and MongoDB â
 
 ![Architecture](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=2E9EF7&center=true&vCenter=true&width=700&lines=React+%7C+Node.js+%7C+MongoDB;Docker+%7C+Kubernetes+%7C+Nginx;Multi-tier+Cloud-Native+Deployment)
 
+<p align="center">
+  <img src="./images/architecture.png" alt="Project Architecture" width="100%">
+</p>
+
 ---
 
 ## ðŸ“Œ Tech Stack
