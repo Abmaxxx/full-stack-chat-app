@@ -1,4 +1,13 @@
-# Real-Time Chat App — Dockerized & Deployed on Kubernetes
+# 🚀 Real-Time Chat App — Dockerized & Deployed on Kubernetes 🌐
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Abdullah%20Maqsood-blue?logo=linkedin)](https://linkedin.com/in/abmax)
+[![GitHub](https://img.shields.io/badge/GitHub-Abmaxxx-181717?logo=github)](https://github.com/Abmaxxx)
+[![DevSecOps](https://img.shields.io/badge/DevSecOps-Pipeline-orange)]()
+[![Kubernetes](https://img.shields.io/badge/Kubernetes-EKS-326CE5?logo=kubernetes)]()
+[![GitHub Actions](https://img.shields.io/badge/CI%2FCD-GitHub%20Actions-2088FF?logo=githubactions)]()
+[![ArgoCD](https://img.shields.io/badge/GitOps-ArgoCD-EF7B4D?logo=argo)]()
+[![Docker](https://img.shields.io/badge/Container-Docker-2496ED?logo=docker)]()
+[![Terraform](https://img.shields.io/badge/IaC-Terraform-7B42BC?logo=terraform)]()
 
 A full-stack real-time chat application built with React, Node.js, and MongoDB — containerized with Docker and deployed on Kubernetes (Minikube) with Ingress-based routing.
 
