@@ -1,4 +1,4 @@
-# 🚀 Real-Time Chat App — Dockerized & Deployed on Kubernetes 🌐
+# 🚀 Real-Time Chat App, Dockerized & Deployed on Kubernetes 🌐
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Abdullah%20Maqsood-blue?logo=linkedin)](https://linkedin.com/in/abmax)
 [![GitHub](https://img.shields.io/badge/GitHub-Abmaxxx-181717?logo=github)](https://github.com/Abmaxxx)
